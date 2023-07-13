@@ -1,0 +1,117 @@
+[
+  {
+    "name": "African Daisy",
+    "description": "The African Daisy is a beautiful flowering plant native to Africa.",
+    "image": "african_daisy"
+  },
+  {
+    "name": "African Lily",
+    "description": "The African Lily is a vibrant flower species found in Africa.",
+    "image": "african_lily"
+  },
+  {
+    "name": "African Marigold",
+    "description": "The African Marigold is a popular garden flower known for its bright orange and yellow petals.",
+    "image": "african_marigold"
+  },
+  {
+    "name": "African Violet",
+    "description": "The African Violet is a small, delicate flowering plant that is native to eastern Africa.",
+    "image": "african_violet"
+  },
+  {
+    "name": "Amaryllis",
+    "description": "The Amaryllis is a bulbous flowering plant with large, showy blooms that are native to South and Central America.",
+    "image": "amaryllis"
+  },
+  {
+    "name": "American Fishing Rod",
+    "description": "The American Fishing Rod is a perennial flowering plant commonly found in North America.",
+    "image": "american_fishing_rod"
+  },
+  {
+    "name": "American Lotus",
+    "description": "The American Lotus is a water lily species native to North America.",
+    "image": "american_lotus"
+  },
+  {
+    "name": "Brazilian Plume",
+    "description": "The Brazilian Plume is an ornamental plant known for its attractive flowers, native to Brazil.",
+    "image": "brazilian_plume"
+  },
+  {
+    "name": "Calla Lily",
+    "description": "The Calla Lily is a popular flower often used in weddings and other special occasions.",
+    "image": "calla_lily"
+  },
+  {
+    "name": "Cockscomb",
+    "description": "The Cockscomb is an annual flowering plant with unique crested flower heads resembling a rooster's comb.",
+    "image": "cockscomb"
+  },
+  {
+    "name": "Frangipani",
+    "description": "Frangipani is a tropical flowering tree known for its fragrant and colorful blossoms.",
+    "image": "frangipani"
+  },
+  {
+    "name": "Fuchsias",
+    "description": "Fuchsias are flowering plants that come in a variety of vibrant colors, native to Central and South America.",
+    "image": "fuchsias"
+  },
+  {
+    "name": "Gloxinia",
+    "description": "The Gloxinia is a tropical flowering plant cherished for its bell-shaped blooms.",
+    "image": "gloxinia"
+  },
+  {
+    "name": "Gooseneck Loosestrife",
+    "description": "The Gooseneck Loosestrife is a perennial plant with unique curved flower spikes.",
+    "image": "gooseneck_loosestrife"
+  },
+  {
+    "name": "Hanging Lobster Claw",
+    "description": "The Hanging Lobster Claw is an exotic flower with vibrant, claw-shaped blooms that hang downward.",
+    "image": "hanging_lobster_claw"
+  },
+  {
+    "name": "Harlequin Flower",
+    "description": "The Harlequin Flower is a striking plant with brightly colored, butterfly-like flowers.",
+    "image": "harlequin_flower"
+  },
+  {
+    "name": "Maximilian Sunflower",
+    "description": "The Maximilian Sunflower is a tall, perennial sunflower species native to North America.",
+    "image": "maximilian_sunflower"
+  },
+  {
+    "name": "Speedwell",
+    "description": "Speedwell is a genus of flowering plants known for their small, blue or purple flowers.",
+    "image": "speedwell"
+  },
+  {
+    "name": "Spider Flower Peaches and Cream",
+    "description": "The Spider Flower Peaches and Cream is a unique variety of spider flower with peach and cream-colored petals.",
+    "image": "spider_flower_peaches_and_cream"
+  },
+  {
+    "name": "Spotted Zygopetalum",
+    "description": "The Spotted Zygopetalum is an orchid species known for its beautiful spotted flowers.",
+    "image": "spotted_zygopetalum"
+  },
+  {
+    "name": "Spring Blossom",
+    "description": "Spring Blossom is a term used to describe the blooming of flowers during the spring season.",
+    "image": "spring_blossom"
+  },
+  {
+    "name": "Tiger Flower",
+    "description": "The Tiger Flower is a showy, Mexican native flower known for its tiger-like markings on the petals.",
+    "image": "tiger_flower"
+  },
+  {
+    "name": "Water Lily",
+    "description": "Water Lily is a floating aquatic plant with beautiful flowers that thrive in freshwater habitats.",
+    "image": "water_lily"
+  }
+]
