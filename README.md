@@ -3,17 +3,17 @@
 This is my first Kotlin project. 
 
 Includes:
--Gson
--ListView
--Intent
+  -Gson
+  -ListView
+  -Intent
 
 Achievements:
--Working with xml
--Activities
--Life Cycle
--Logic of adapters
--Drawables
--reading data from json in local storage
+  -Working with xml
+  -Activities
+  -Life Cycle
+  -Logic of adapters
+  -Drawables
+  -reading data from json in local storage
 
 Inferences:
 - RecycleViews should be used
